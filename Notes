@@ -4,3 +4,5 @@
 - display: block - the element will be displayed as a block element; its starts on a new line and takes up the whole width
 - Should I use Px or Rem? https://stackoverflow.com/questions/11799236/should-i-use-px-or-rem-value-units-in-my-css#:~:text=As%20a%20reflex%20answer%2C%20I,parent%20element%2C%20then%20use%20em.
 - z-index: 999, to be above everything
+- overflow: overflow specify when the element will have a scroll or will be wrapped
+- https://www.pexels.com/pt-br/ good website to find free photos and videos
